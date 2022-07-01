@@ -11,8 +11,9 @@ This repository contains deep semi-supervised learning papers mentioned in our s
 3.   [Consistency regularization methods](#content)
 4.   [Graph-based methods](#content)
 5.   [Pseudo-labeling methods](#content)
-6.   [Future trends](#content)
-7.   [Test results](#content)
+6.   [Hybrid methods](#content)
+7.   [Future trends](#content)
+8.   [Test results](#content)
 
 ## [Survey](#content)
 
