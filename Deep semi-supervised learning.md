@@ -35,7 +35,7 @@ This repository contains deep semi-supervised learning papers mentioned in our s
 
 ## [Deep Generative methods](#content)
 
-### Semi-supervised VAE
+### Semi-supervised VAEs
 
 - Unified Robust Semi-Supervised Variational Autoencoder.
   [[pdf]](http://proceedings.mlr.press/v139/chen21a.html)
